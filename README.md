@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=we0091234.readme)
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=we0091234&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
 <a href="https://github.com/search?o=desc&q=author%3Awe0091234&s=committer-date&type=Commits">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=we0091234&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=we0091234&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/koi2000?tab=repositories">
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234&count_private=true&layout=compact&theme=default_repocard&hide=html,css" />
