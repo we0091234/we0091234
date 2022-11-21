@@ -5,5 +5,5 @@
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=we0091234&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/koi2000?tab=repositories">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234&count_private=true&layout=compact&theme=default_repocard&hide=html,css" />
+  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234&count_private=true&layout=compact&theme=dark&hide=html,css" />
 </a>
