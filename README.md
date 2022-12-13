@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=we0091234.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=we0091234&show_icons=true&count_private=true&hide=prs&theme=gotham&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234&layout=compact&theme=gotham&hide=html&hide_border=true&card_width=330)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234&layout=compact&theme=gotham&hide=html&hide_border=true&card_width=330)
 <!-- <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=we0091234">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=we0091234&show_icons=true&count_private=true&hide=prs&theme=gotham&card_width=400" />
